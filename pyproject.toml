@@ -3,10 +3,10 @@ name = "z-to-attn"
 version = "0.1.0"
 description = "Is it possible to go from zero to hero"
 authors = [
-    {name = "copilot-swe-agent[bot]",email = "198982749+Copilot@users.noreply.github.com"}
+    {name = "copilot-swe-agent[bot]", email = "198982749+Copilot@users.noreply.github.com"}
 ]
 readme = "README.md"
-requires-python = "^3.12"
+requires-python = ">=3.12,<4.0"
 dependencies = [
 ]
 
